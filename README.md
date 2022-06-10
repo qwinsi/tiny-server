@@ -1,6 +1,6 @@
 # Tiny Server
 
-A sample HTTP server written in Golang.
+A simple HTTP server written in Golang.
 
 # Building
 
